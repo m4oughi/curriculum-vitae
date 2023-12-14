@@ -1,0 +1,873 @@
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  14 DEC 2023 10:34
+ restricted system commands enabled.
+**references.tex
+(./references.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-08>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/m4oughi/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Users/m4oughi/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload
+/fontloader-2023-08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/m4oughi/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+! Undefined control sequence.
+l.4 \cvsection
+            {REFERENCES}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \cvsection{R
+              EFERENCES}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]REFERENCES 
+ []
+
+
+! LaTeX Error: Environment cventries undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 \begin{cventries}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.12   \cventry
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 {\textbf{Professor / M.Sc Advisor}
+                                     } % Role
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from C:/Users/m4oughi/AppData/Local
+/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+! Undefined control sequence.
+l.14 {\href
+         {https://scholar.google.com/citations?user=ZSDFbf4AAAAJ&hl=en}{Mojt...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.14 ...olar.google.com/citations?user=ZSDFbf4AAAAJ&
+                                                  hl=en}{Mojtaba Azhari, Ph....
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 	\begin{cvitems}
+                    % Description(s)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (42.18001pt too wide) in paragraph at lines 13--19
+[]\TU/lmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (17.15pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 fes-
+ []
+
+
+Overfull \hbox (15.03pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 sor
+ []
+
+
+Overfull \hbox (5.75pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (25.61pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 M.Sc
+ []
+
+
+Overfull \hbox (18.59pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 Ad-
+ []
+
+
+Overfull \hbox (13.09001pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 vi-
+ []
+
+
+Overfull \hbox (15.03pt too wide) in paragraph at lines 13--19
+\TU/lmr/bx/n/10 sor
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 		\item {
+            Professor, Department of Civil Engineering, Isfahan University o...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 		\item {
+            \textbf{Phone}: +98 313 3913804}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.66pt too wide) in paragraph at lines 20--21
+\TU/lmr/bx/n/10 Phone\nullfont :
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 		\item {
+            \textbf{E-mail}: mojtaba@iut.ac.ir}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 	\end{cvitems}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (11.39pt too wide) in paragraph at lines 21--24
+\TU/lmr/bx/n/10 E-
+ []
+
+
+Overfull \hbox (21.55pt too wide) in paragraph at lines 21--24
+\TU/lmr/bx/n/10 mail\nullfont :
+ []
+
+! Undefined control sequence.
+l.28 \cventry
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...extbf{Associate Professor / M.Sc Co-Advisor}
+                                                  } % Role
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.30  {\href
+          {https://scholar.google.com/citations?hl=en&user=rUy_5DEAAAAJ}{Sae...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.30 ...{https://scholar.google.com/citations?hl=en&
+                                                  user=rUy_5DEAAAAJ}{Saeid S...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.30 ...scholar.google.com/citations?hl=en&user=rUy_
+                                                  5DEAAAAJ}{Saeid Sarrami, P...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+! Extra }, or forgotten $.
+l.30 ...oogle.com/citations?hl=en&user=rUy_5DEAAAAJ}
+                                                  {Saeid Sarrami, Ph.D.}} % ...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.30 ...en&user=rUy_5DEAAAAJ}{Saeid Sarrami, Ph.D.}}
+                                                   % Event
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34  	\begin{cvitems}
+                     % Description(s)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35  		\item
+            {Associate Professor, Professor, Department of Civil Engineering...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35  		\item {
+             Associate Professor, Professor, Department of Civil Engineering...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35  		\item {
+             Associate Professor, Professor, Department of Civil Engineering...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35  		\item {
+             Associate Professor, Professor, Department of Civil Engineering...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36  		\item
+            {\textbf{Phone}: +98 313 3913816}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.36  		\item {
+             \textbf{Phone}: +98 313 3913816}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+\endgroup 
+l.36  		\item {
+             \textbf{Phone}: +98 313 3913816}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.36  		\item {
+             \textbf{Phone}: +98 313 3913816}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (37.06pt too wide) in paragraph at lines 29--36
+[]\TU/lmr/bx/n/10 As-
+ []
+
+
+Overfull \hbox (14.12pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (23.63pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 ciate
+ []
+
+
+Overfull \hbox (22.18001pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (17.15pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 fes-
+ []
+
+
+Overfull \hbox (15.03pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 sor
+ []
+
+
+Overfull \hbox (5.75pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 /
+ []
+
+
+Overfull \hbox (25.61pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 M.Sc
+ []
+
+
+Overfull \hbox (17.89pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 Co-
+ []
+
+
+Overfull \hbox (39.05pt too wide) in paragraph at lines 29--36
+\TU/lmr/bx/n/10 Advisor
+ []
+
+
+Overfull \hbox (715.31178pt too wide) in paragraph at lines 29--36
+https://scholar.google.com/citations?hl=enuser=rUy$[][]\OML/cmm/m/it/10 DEAAAAJ[][][][]$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36  		\item {
+             \textbf{Phone}: +98 313 3913816}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.66pt too wide) in paragraph at lines 36--37
+\TU/lmr/bx/n/10 Phone\nullfont :
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37  		\item {
+             \textbf{E-mail}: sarrami@iut.ac.ir}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39  	\end{cvitems}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.39  	\end{cvitems}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.39  	\end{cvitems}
+                  
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Too many }'s.
+l.40  }
+     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Overfull \hbox (11.39pt too wide) in paragraph at lines 37--41
+\TU/lmr/bx/n/10 E-
+ []
+
+
+Overfull \hbox (21.55pt too wide) in paragraph at lines 37--41
+\TU/lmr/bx/n/10 mail\nullfont :
+ []
+
+! Undefined control sequence.
+l.45 \cventry
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46  {\textbf{Associate Professor}
+                                 } % Role
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.47 {\href
+         {https://scholar.google.com/citations?user=d_cAhn4AAAAJ&hl=en}{Navi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.47 ...https://scholar.google.com/citations?user=d_
+                                                  cAhn4AAAAJ&hl=en}{Navid Na...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.47 ...olar.google.com/citations?user=d_cAhn4AAAAJ&
+                                                  hl=en}{Navid Naeimi, Ph.D....
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+l.47 ...oogle.com/citations?user=d_cAhn4AAAAJ&hl=en}
+                                                  {Navid Naeimi, Ph.D.}} % E...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+l.47 ...er=d_cAhn4AAAAJ&hl=en}{Navid Naeimi, Ph.D.}}
+                                                   % Event
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: Environment cvitems undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 	\begin{cvitems}
+                    % Description(s)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		\item
+           {Associate Professor, Professor, Department of Civil Engineering,...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		\item {
+            Associate Professor, Professor, Department of Civil Engineering,...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		\item {
+            Associate Professor, Professor, Department of Civil Engineering,...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 		\item {
+            Associate Professor, Professor, Department of Civil Engineering,...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 		\item
+           {\textbf{Phone}: +98 313 3913814}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.53 		\item {
+            \textbf{Phone}: +98 313 3913814}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing \endgroup inserted.
+<inserted text> 
+\endgroup 
+l.53 		\item {
+            \textbf{Phone}: +98 313 3913814}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.53 		\item {
+            \textbf{Phone}: +98 313 3913814}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (37.06pt too wide) in paragraph at lines 46--53
+[]\TU/lmr/bx/n/10 As-
+ []
+
+
+Overfull \hbox (14.12pt too wide) in paragraph at lines 46--53
+\TU/lmr/bx/n/10 so-
+ []
+
+
+Overfull \hbox (23.63pt too wide) in paragraph at lines 46--53
+\TU/lmr/bx/n/10 ciate
+ []
+
+
+Overfull \hbox (22.18001pt too wide) in paragraph at lines 46--53
+\TU/lmr/bx/n/10 Pro-
+ []
+
+
+Overfull \hbox (17.15pt too wide) in paragraph at lines 46--53
+\TU/lmr/bx/n/10 fes-
+ []
+
+
+Overfull \hbox (15.03pt too wide) in paragraph at lines 46--53
+\TU/lmr/bx/n/10 sor
+ []
+
+
+Overfull \hbox (84.34238pt too wide) in paragraph at lines 46--53
+https://scholar.google.com/citations?user=d$[][]\OML/cmm/m/it/10 Ahn\OT1/cmr/m/
+n/10 4\OML/cmm/m/it/10 AAAAJhl \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (667.08183pt too wide) in paragraph at lines 46--53
+\OML/cmm/m/it/10 en[][][][]$ 
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 		\item {
+            \textbf{Phone}: +98 313 3913814}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (31.66pt too wide) in paragraph at lines 53--54
+\TU/lmr/bx/n/10 Phone\nullfont :
+ []
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 		\item {
+            \textbf{E-mail}: b.movahedian@iut.ac.ir}
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvitems}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 	\end{cvitems}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.55 	\end{cvitems}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+}
+l.55 	\end{cvitems}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+          
+l.55 	\end{cvitems}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+! Too many }'s.
+l.56 }
+    
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{cventries}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 \end{cventries}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+          
+l.58 \end{cventries}
+                  
+Things are pretty mixed up, but I think the worst is over.
+
+)
+! Emergency stop.
+<*> references.tex
+               
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 29 strings out of 476502
+ 100000,1977958 words of node,token memory allocated 9174 words of node memory still in use:
+   84 hlist, 15 disc, 11 local_par, 1 dir, 4 math, 217 glue, 106 kern, 53 penalt
+y, 754 glyph, 100 attribute, 40 glue_spec, 100 attribute_list, 1 temp nodes
+   avail lists: 2:1,3:130,4:13,5:4,8:144,9:2,10:12
+ 22188 multiletter control sequences out of 65536+600000
+ 25 fonts using 1345055 bytes
+ 18i,4n,21p,156b,95s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

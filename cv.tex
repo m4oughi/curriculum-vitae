@@ -1,0 +1,81 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=0.8cm, right=1.4cm, bottom=1.8cm, footskip=0.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+\colorlet{awesome}{darkgray}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+% PERSONAL INFORMATION
+%-------------------------------------------------------------------------------
+\name{Mohammad}{Foroughi}
+\position{Prospective PhD Student}
+
+\mobile{(+98) 922 621 91 73}
+\email{foroughi.mohammad.1994@gmail.com}
+\github{m4oughi}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+%-------------------------------------------------------------------------------
+
+% Print the header with above personal informations
+\makecvheader
+% Print the footer
+\makecvfooter
+  {\today}
+  	{Mohammad Foroughi~~~·~~~Curriculum Vitae}
+  {\thepage}
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%-------------------------------------------------------------------------------
+\input{cv/education.tex}
+\vspace{10pt}
+\input{cv/interests.tex}
+\vspace{10pt}
+\input{cv/projects.tex}
+\input{cv/independent.tex}
+\vspace{-20pt}
+\input{cv/experience.tex}
+\vspace{10pt}
+\input{cv/honors.tex}
+\vspace{10pt}
+\input{cv/publications_journals.tex}
+\vspace{10pt}
+\input{cv/publications_conferences.tex}
+\vspace{60pt}
+\input{cv/publications_thesis.tex}
+\vspace{20pt}
+\input{cv/Coursework.tex}
+\vspace{30pt}
+\input{cv/membership.tex}
+\input{cv/presentation.tex}
+\input{cv/skills.tex}
+%\input{cv/references.tex}
+
+
+
+%-------------------------------------------------------------------------------
+\end{document}
+%-------------------------------------------------------------------------------
