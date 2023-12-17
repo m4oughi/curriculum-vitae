@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  14 DEC 2023 11:48
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  17 DEC 2023 10:43
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -1172,7 +1172,7 @@ l.34 \end{cventries}
 Things are pretty mixed up, but I think the worst is over.
 
 ) (./cv/interests.tex
-Overfull \hbox (242.71802pt too wide) in alignment at lines 10--46
+Overfull \hbox (242.71802pt too wide) in alignment at lines 10--49
 [] []
  []
 
@@ -1183,8 +1183,16 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 24.
 ) (./cv/independent.tex [1
 
-{C:/Users/m4oughi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (./cv/exp
-erience.tex
+{C:/Users/m4oughi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]) (./cv/ski
+lls.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 15.
+
+Overfull \hbox (87.15791pt too wide) in alignment at lines 10--52
+[] []
+ []
+
+) (./cv/experience.tex
 ! Missing } inserted.
 <inserted text> 
 }
@@ -1209,7 +1217,7 @@ deleted material, e.g., by typing `I$}'.
 ! Misplaced \crcr.
 \endarray ->\crcr 
                   \egroup \egroup \@arrayright \gdef \@preamble {}
-l.18 \end{cvskills}
+l.25 \end{cvskills}
                  
 I can't figure out why you would want to use a tab mark
 or \cr or \span just now. If something like a right brace
@@ -1220,7 +1228,7 @@ might try typing `S' now just to see what is salvageable.
 ! Extra }, or forgotten $.
 \endarray ->\crcr \egroup \egroup 
                                   \@arrayright \gdef \@preamble {}
-l.18 \end{cvskills}
+l.25 \end{cvskills}
                  
 I've deleted a group-closing symbol because it seems to be
 spurious, as in `$x}$'. But perhaps the } is legitimate and
@@ -1228,12 +1236,10 @@ you forgot something else, as in `\hbox{$x}'. In such cases
 the way to recover is to insert both the forgotten and the
 deleted material, e.g., by typing `I$}'.
 
-) (./cv/publications_conferences.tex
-Overfull \hbox (46.7579pt too wide) in alignment at lines 5--10
-[] []
- []
-
-) (./cv/publications_thesis.tex [2]
+) (./cv/publications_thesis.tex
+LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 16.0pt on input line 4.
+ [2]
 Overfull \hbox (24.59793pt too wide) in alignment at lines 5--11
 [] []
  []
@@ -1243,19 +1249,11 @@ Overfull \hbox (39.35791pt too wide) in alignment at lines 5--19
 [] []
  []
 
-) (./cv/membership.tex) (./cv/presentation.tex
+) (./cv/presentation.tex
 
 Package hyperref Warning: Suppressing link with empty target on input line 20.
 
-) (./cv/skills.tex
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 15.
-
-Overfull \hbox (35.33789pt too wide) in alignment at lines 10--40
-[] []
- []
-
-) [3] (./cv.aux)
+) (./cv/references.tex) [3] (./cv.aux)
  ***********
 LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-08>
@@ -1263,15 +1261,15 @@ L3 programming layer <2023-12-08>
 )
 
 Here is how much of LuaTeX's memory you used:
- 35890 strings out of 476502
+ 35881 strings out of 476502
  125086,1977958 words of node,token memory allocated
  645 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 82 glue_spec,
  8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:1485,3:474,4:502,5:1532,6:200,7:9658,8:1,9:1366,10:23,11:7
-63
- 57108 multiletter control sequences out of 65536+600000
- 128 fonts using 39067559 bytes
+   avail lists: 1:1,2:1529,3:456,4:478,5:1630,6:189,7:10177,8:1,9:1304,10:23,11:
+911
+ 57106 multiletter control sequences out of 65536+600000
+ 128 fonts using 39067955 bytes
  116i,12n,126p,559b,1110s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/m4oughi/appdata/local/programs/miktex/fonts/opentype/adobe/sources
 anspro/sourcesanspro-light.otf><//?/c:/users/m4oughi/appdata/local/programs/mikt
@@ -1287,9 +1285,9 @@ s/m4oughi/appdata/local/programs/miktex/fonts/opentype/adobe/sourcesanspro/sourc
 esanspro-regular.otf><//?/c:/users/m4oughi/appdata/local/programs/miktex/fonts/o
 pentype/google/roboto/roboto-bold.otf><//?/c:/users/m4oughi/appdata/local/progra
 ms/miktex/fonts/opentype/google/roboto/roboto-light.otf>
-Output written on cv.pdf (3 pages, 63223 bytes).
+Output written on cv.pdf (3 pages, 65045 bytes).
 
-PDF statistics: 111 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 131072)
+PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 

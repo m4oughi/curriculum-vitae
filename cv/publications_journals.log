@@ -1,0 +1,554 @@
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  15 DEC 2023 13:26
+ restricted system commands enabled.
+**publications_journals.tex
+(./publications_journals.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-08>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/m4oughi/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Users/m4oughi/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload
+/fontloader-2023-08-19.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.133
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/m4oughi/AppData/Local/MiKT
+eX/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+! Undefined control sequence.
+l.4 \cvsection
+            {Publications and Proceeding}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 \cvsection{P
+              ublications and Proceeding}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 4--5
+[]Publications
+ []
+
+
+! LaTeX Error: Environment cvskills undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \begin{cvskills}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.9 \cvskill
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12   \item  \textbf
+                   {M. Foroughi}, S. Sarrami \& M. Azhari "\textit{Buckling ...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+luaotfload | db : Font names database loaded from C:/Users/m4oughi/AppData/Local
+/MiKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (14.11pt too wide) in paragraph at lines 12--14
+\TU/lmr/bx/n/10 M.
+ []
+
+
+Overfull \hbox (20.6pt too wide) in paragraph at lines 12--14
+\TU/lmr/bx/n/10 For-
+ []
+
+
+Overfull \hbox (27.47pt too wide) in paragraph at lines 12--14
+\TU/lmr/bx/n/10 oughi\nullfont ,
+ []
+
+
+Overfull \hbox (25.19pt too wide) in paragraph at lines 12--14
+"\TU/lmr/m/it/10 Buck-
+ []
+
+
+Overfull \hbox (15.85pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 ling
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (22.98001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 FGM
+ []
+
+
+Overfull \hbox (26.46pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 Plates
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 on
+ []
+
+
+Overfull \hbox (19.94pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 elas-
+ []
+
+
+Overfull \hbox (10.99002pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 tic
+ []
+
+
+Overfull \hbox (22.75pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 foun-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 da-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (22.49002pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 based
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 on
+ []
+
+
+Overfull \hbox (12.66pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 2D
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (25.82pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 quasi-
+ []
+
+
+Overfull \hbox (12.66pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 3D
+ []
+
+
+Overfull \hbox (22.62001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 shear
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 de-
+ []
+
+
+Overfull \hbox (15.98001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (16.87pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (16.61002pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 the-
+ []
+
+
+Overfull \hbox (14.19pt too wide) in paragraph at lines 12--14
+\TU/lmr/m/it/10 ory\nullfont ,"
+ []
+
+! Undefined control sequence.
+l.16   \cvskill
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Lonely \item--perhaps a missing list environment.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19   \item  \textbf
+                   {M. Foroughi} , S. Sarrami \& M. Azhari, "\textit{Free Vi...
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (14.11pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 M.
+ []
+
+
+Overfull \hbox (20.6pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 For-
+ []
+
+
+Overfull \hbox (27.47pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 oughi
+ []
+
+
+Overfull \hbox (18.16002pt too wide) in paragraph at lines 19--20
+"\TU/lmr/m/it/10 Free
+ []
+
+
+Overfull \hbox (13.7pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Vi-
+ []
+
+
+Overfull \hbox (17.00002pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 bra-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (17.63pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Sta-
+ []
+
+
+Overfull \hbox (13.81001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 bil-
+ []
+
+
+Overfull \hbox (11.25002pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 ity
+ []
+
+
+Overfull \hbox (23.79pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Anal-
+ []
+
+
+Overfull \hbox (8.44pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 y-
+ []
+
+
+Overfull \hbox (11.25pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 sis
+ []
+
+
+Overfull \hbox (8.18001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 of
+ []
+
+
+Overfull \hbox (24.93pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Func-
+ []
+
+
+Overfull \hbox (20.70001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 tion-
+ []
+
+
+Overfull \hbox (15.86pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 ally
+ []
+
+
+Overfull \hbox (30.87003pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Graded
+ []
+
+
+Overfull \hbox (26.46pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Plates
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 on
+ []
+
+
+Overfull \hbox (22.12pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Elas-
+ []
+
+
+Overfull \hbox (10.99002pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 tic
+ []
+
+
+Overfull \hbox (25.43999pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Foun-
+ []
+
+
+Overfull \hbox (13.8pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 da-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (25.44pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Based
+ []
+
+
+Overfull \hbox (10.73pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 on
+ []
+
+
+Overfull \hbox (12.66pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 2D
+ []
+
+
+Overfull \hbox (15.84pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 and
+ []
+
+
+Overfull \hbox (28.89pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Quasi-
+ []
+
+
+Overfull \hbox (12.66pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 3D
+ []
+
+
+Overfull \hbox (24.15001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Shear
+ []
+
+
+Overfull \hbox (15.73001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 De-
+ []
+
+
+Overfull \hbox (15.98001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 for-
+ []
+
+
+Overfull \hbox (16.87pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 ma-
+ []
+
+
+Overfull \hbox (17.12001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 tion
+ []
+
+
+Overfull \hbox (20.45001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 The-
+ []
+
+
+Overfull \hbox (14.19pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 ory
+ []
+
+
+Overfull \hbox (13.04pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 us-
+ []
+
+
+Overfull \hbox (13.29001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 ing
+ []
+
+
+Overfull \hbox (15.73pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 B3-
+ []
+
+
+Overfull \hbox (26.58pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Spline
+ []
+
+
+Overfull \hbox (13.18001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Fi-
+ []
+
+
+Overfull \hbox (16.61002pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 nite
+ []
+
+
+Overfull \hbox (21.34001pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Strip
+ []
+
+
+Overfull \hbox (34.78003pt too wide) in paragraph at lines 19--20
+\TU/lmr/m/it/10 Method.\nullfont ,"
+ []
+
+
+Overfull \hbox (27.8pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 Thin-
+ []
+
+
+Overfull \hbox (34.56pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 Walled
+ []
+
+
+Overfull \hbox (30.93001pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 Struc-
+ []
+
+
+Overfull \hbox (25.41pt too wide) in paragraph at lines 19--20
+\TU/lmr/bx/n/10 tures\nullfont . 
+ []
+
+! Extra }, or forgotten \endgroup.
+l.21     }
+         % Skills
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \begin{document} ended by \end{cvskills}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 \end{cvskills}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> publications_journals.tex
+                          
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 25 strings out of 476502
+ 100000,1977958 words of node,token memory allocated 6753 words of node memory still in use:
+   92 hlist, 32 disc, 3 local_par, 1 dir, 218 glue, 25 kern, 43 penalty, 484 gly
+ph, 29 attribute, 40 glue_spec, 29 attribute_list nodes
+   avail lists: 2:3,3:1,4:16,5:2,7:62,10:15
+ 22184 multiletter control sequences out of 65536+600000
+ 16 fonts using 855119 bytes
+ 18i,1n,20p,367b,92s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
