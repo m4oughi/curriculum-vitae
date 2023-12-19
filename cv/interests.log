@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  16 DEC 2023 12:44
+This is LuaHBTeX, Version 1.17.0 (MiKTeX 23.10.12) (format=lualatex 2023.12.14)  19 DEC 2023 06:26
  restricted system commands enabled.
 **interests.tex
 (./interests.tex
@@ -80,7 +80,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ! Undefined control sequence.
-l.14 \cvskill
+l.15 \cvskill
            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -95,48 +95,22 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.15 	{C
-      omputational Mechanics \& Structural Engineering} % Category
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 16.
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 15--17
-[]Computational
- []
-
-! Undefined control sequence.
-l.26 \cvskill
-           
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.27 	{S
+l.16 	{S
       tatistical and probabilistic modeling in Structural Engineering} % Cat...
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 17.
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 27--29
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--18
 []Statistical
  []
 
 ! Undefined control sequence.
-l.36 \cvskill
+l.24 \cvskill
            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -151,18 +125,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.37 	{I
-      nfrastructural Resilience  } % Category
+l.25 	{I
+      nfrastructural Resilience } % Category
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 37--39
+Overfull \hbox (20.0pt too wide) in paragraph at lines 25--27
 []Infrastructural
  []
 
 ! Undefined control sequence.
-l.44 \cvskill
+l.33 \cvskill
            
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -177,13 +151,39 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.45 	{A
+l.34 	{C
+      omputational Mechanics \& Structural Engineering} % Category
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 34--36
+[]Computational
+ []
+
+! Undefined control sequence.
+l.41 \cvskill
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 	{A
       daptive Manufacturing } % Category
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 45--47
+Overfull \hbox (20.0pt too wide) in paragraph at lines 42--44
 []Adaptive
  []
 
@@ -194,7 +194,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49 \end{cvskills}
+l.46 \end{cvskills}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -210,11 +210,11 @@ or  <return>  to continue without it.
 
 Here is how much of LuaTeX's memory you used:
  24 strings out of 476502
- 100000,1977958 words of node,token memory allocated 5572 words of node memory still in use:
-   24 hlist, 1 disc, 5 local_par, 1 dir, 116 glue, 3 kern, 14 penalty, 580 glyph
-, 30 attribute, 39 glue_spec, 30 attribute_list nodes
+ 100000,1977958 words of node,token memory allocated 6376 words of node memory still in use:
+   26 hlist, 3 disc, 5 local_par, 1 dir, 128 glue, 3 kern, 14 penalty, 676 glyph
+, 32 attribute, 39 glue_spec, 32 attribute_list nodes
    avail lists: 2:3,3:1,4:15,5:4,7:14,10:14
  22183 multiletter control sequences out of 65536+600000
  24 fonts using 1213367 bytes
- 18i,1n,20p,272b,72s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 18i,1n,20p,277b,72s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
